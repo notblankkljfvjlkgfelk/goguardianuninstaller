@@ -1,1 +1,1 @@
-javascript:chrome.management.uninstall('clngdbkpkpeebahjckkjfobafhncgmne');
+javascript:chrome.management.uninstall('haldlgldplgnggkjaafhelgiaglafanh');
